@@ -1,5 +1,5 @@
 //program code for RADER System
-//Research Tamilan
+//Research nissijerusha radar
 
 // Includes the Servo library
 #include <Servo.h>. 
