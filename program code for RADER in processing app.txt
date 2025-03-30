@@ -1,5 +1,5 @@
 //This program code for processing application
-//Rsearch Tamilan
+//Rsearch nissi radar
 
 import processing.serial.*; // imports library for serial communication
 import java.awt.event.KeyEvent; // imports library for reading the data from the serial port
